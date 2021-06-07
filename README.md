@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @HodgkinsDev
-I’m interested in Xbox programming mainly, though I will release the odd random tool or program.
+Hi, I’m @HodgkinsDev 
+
+I’m interested in Original Xbox programming mainly, though I will release the odd random tool or program.
 
 I'm learning pygame on the side, so you'll probably see random games and stuff like that aswell.
 
